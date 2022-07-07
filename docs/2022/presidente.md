@@ -6,11 +6,11 @@
 
 | Chapa | Número | Presidente                     | Vice                  | Plano de Governo                                 |
 |-------|--------|--------------------------------|-----------------------|--------------------------------------------------|
-|       | 12     | Ciro Gomes (PDT)               |                       |                                                  |
+|       | 12     | Ciro Gomes (PDT)               |                       | [aqui](https://www.cirogomes.com.br/o-projeto)                                                 |
 |       | 13     | Luiz Inácio Lula da Silva (PT) | Geraldo Alckmin (PSB) | [aqui](https://lula.com.br/plano-pt-de-governo/) |
 |       | 15     | Simone Tebet (MDB)             |                       |                                                  |
 |       | 16     | Vera Lúcia (PSTU)              |                       | [aqui](https://vera.pstu.org.br/programa)        |
-|       | 21     | Sofia Manzano (PCB)            |                       |                                                  |
+|       | 21     | Sofia Manzano (PCB)            |                       | [aqui](https://pcb.org.br/portal2/28995)                                                  |
 |       | 22     | Jair Messias Bolsonaro (PL)    |                       |                                                  |
 |       | 27     | José Maria Eymael (DC)         |                       |                                                  |
 |       | 44     | Luciano Bivar (UNIAO)          |                       |                                                  |
@@ -50,4 +50,8 @@
 
 ## Referências
 
-- <https://eleicoes.metropoles.com/2022/candidatos/presidente/>
+- [Pré-candidatos à Presidência 2022](https://eleicoes.metropoles.com/2022/candidatos/presidente/)
+- [O que os pré-candidatos à Presidência propõem para a comunidade LGBT+?](https://www.cartacapital.com.br/politica/o-que-os-pre-candidatos-a-presidencia-propoem-para-a-comunidade-lgbt/)
+- [Simone Tebet apresenta plano de governo a empresários e indígenas](https://www.correiobraziliense.com.br/politica/2022/04/5004189-simone-tebet-apresenta-plano-de-governo-a-empresarios-e-indigenas.html)
+- [O que esperar do plano de governo que Bolsonaro vai propor na campanha de reeleição](https://www.gazetadopovo.com.br/eleicoes/2022/como-esta-construcao-plano-governo-bolsonaro/)
+- [PROPOSTAS DE PRESIDENCIÁVEIS PARA A EDUCAÇÃO BÁSICA](https://todospelaeducacao.org.br/noticias/propostas-presidenciaveis-educacao-basica/)
